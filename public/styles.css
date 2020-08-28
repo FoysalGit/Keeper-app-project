@@ -8,6 +8,7 @@ html {
 }
 body {
   background: #eee;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
   padding: 0 16px;
 }
 
@@ -86,7 +87,7 @@ form textarea {
   font-family: inherit;
   resize: none;
 }
-form button {
+form .button {
   position: absolute;
   right: 18px;
   bottom: -18px;
